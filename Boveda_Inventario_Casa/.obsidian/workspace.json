@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "c60f0d279fa0e0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4fe53ee22c6950b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef106ac79637beda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Bitacora-b0-p03-casa-inventario-equipos"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ee23de5e1bbce80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6f2b99c36981360",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa8cb3ec02248830",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ecf8e2a96faf78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4eec4d6604b59099",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "578d843bcd08f506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "074ba323e46606b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1804bd6320a37734",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3b23d45e0cc412d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2da7e2115f47a63b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes"
+            }
+          },
+          {
+            "id": "ec52a2065cd21979",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes"
+            }
+          },
+          {
+            "id": "a2338d32caee493c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "340be455528fb620",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "12c34cc9059c375f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ef106ac79637beda",
+  "lastOpenFiles": [
+    "01_Proyecto/inventario4/videos/revision-01.mp4",
+    "01_Proyecto/inventario5/videos/revision-02.mp4",
+    "01_Proyecto/inventario3/imagenes/equipo.png",
+    "01_Proyecto/inventario2/criterios-estados.md",
+    "01_Proyecto/inventario1/mantenimiento/EQ02.md",
+    "01_Proyecto/inventario/equipos.csv.md",
+    "01_Proyecto/inventario/equipos.csv",
+    "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md",
+    "01_Proyecto/README.md",
+    "01_Proyecto/00_Bitacora/00_Bitacora-b0-p03-casa-inventario-equipos.md.md",
+    "01_Proyecto/README.md.md",
+    "01_Proyecto/git/gitignore.md",
+    "01_Proyecto/inventario5/videos/revision-02.mp4.md",
+    "01_Proyecto/inventario4/videos/revision-01.mp4.md",
+    "01_Proyecto/inventario5/videos",
+    "01_Proyecto/inventario5",
+    "inventario 1",
+    "01_Proyecto/inventario3/imagenes/equipo.png.md",
+    "01_Proyecto/inventario4/videos",
+    "01_Proyecto/inventario4",
+    "01_Proyecto/inventario2/criterios-estados.md.md",
+    "01_Proyecto/inventario3/imagenes",
+    "01_Proyecto/inventario3",
+    "01_Proyecto/inventario1/mantenimiento/EQ02.md.md",
+    "01_Proyecto/inventario2",
+    "inventario 1/Sin título.md",
+    "01_Proyecto/00_Bitacora.md",
+    "Bienvenido.md"
+  ]
+}
