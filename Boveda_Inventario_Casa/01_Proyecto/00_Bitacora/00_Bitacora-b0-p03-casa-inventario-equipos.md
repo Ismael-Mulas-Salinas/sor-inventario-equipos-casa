@@ -1,7 +1,7 @@
 - **Alumno:** Ismael Mulas Salinas
 - **Bloque:** B0.P03 · Casa · 
 Inventario de equipos con Git y GitHub
-- **Fase / ejercicio:** Fase
+- **Fase / ejercicio:** FASE B0.P03 · Casa · Inventario de equipos
 - **Fecha de inicio:** 25/10/2026
 - **Fecha de entrega:** 26/10/2026
 
